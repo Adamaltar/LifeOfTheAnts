@@ -1,0 +1,9 @@
+com\codecool\lifeoftheants\model\Ant$1.class
+com\codecool\lifeoftheants\util\Direction.class
+com\codecool\lifeoftheants\model\Drone.class
+com\codecool\lifeoftheants\model\Queen.class
+com\codecool\lifeoftheants\model\Soldier.class
+com\codecool\lifeoftheants\model\Worker.class
+com\codecool\lifeoftheants\AntColony.class
+com\codecool\lifeoftheants\model\Ant.class
+com\codecool\lifeoftheants\util\Position.class
